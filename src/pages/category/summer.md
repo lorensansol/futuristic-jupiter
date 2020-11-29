@@ -1,6 +1,6 @@
 ---
 title: Summer plants
-order: 4
+order: 5
 section: Store
 template: category
 ---

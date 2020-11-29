@@ -1,10 +1,10 @@
 ---
-title: Home
+title: Homerl
 white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: /images/fondo_TOTAL.png
     content: >-
       # Real, beautiful plants right to your door
 

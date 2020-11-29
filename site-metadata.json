@@ -1,12 +1,12 @@
 {
-    "title": "Planty",
+    "title": "Planty Molona",
     "snipcart_api_key": "",
-    "footer_text": "Copyright 2020 Planty Inc. All rights reserved.",
-    "logo_light": "images/logo-white.svg",
+    "footer_text": "Copyright 2020 Planty Inc. Todos los derechos reservados",
+    "logo_light": "/images/spine.svg",
     "logo_dark": "images/logo.svg",
     "favicon": "images/favicon.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
-    "bg_image_primary": "/images/header.jpg",
+    "bg_image_primary": "/images/fondo_TOTAL.png",
     "bg_image_secondary": "/images/leaf-light-grey.svg",
     "bg_image_product": "/images/leaf.svg",
     "palette": "default",
@@ -32,7 +32,8 @@
         {
             "type": "action",
             "title": "Store",
-            "url": "/store"
+            "url": "/store",
+            "arrow": true
         },
         {
             "type": "action",
